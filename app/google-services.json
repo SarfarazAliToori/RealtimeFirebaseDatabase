@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723487577731",
+    "project_id": "realtime-firebase-databa-d2f37",
+    "storage_bucket": "realtime-firebase-databa-d2f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723487577731:android:1e0f69a04784a24b17edb6",
+        "android_client_info": {
+          "package_name": "com.wordpress.safbk.realtimefirebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723487577731-tdhmtgpskccj97okbannkm3n9tn1n0md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSci2dZWC4xnorfd8y_cZ9TcZJRZ39REQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723487577731-tdhmtgpskccj97okbannkm3n9tn1n0md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
